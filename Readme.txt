@@ -82,7 +82,7 @@ Create route 53 for domain name registration
 3. copy the name server that was generated from route 53 and update on domain name  **NAMECHEAP**
 4. and paste it on the name server and  save 
 
-![2025-08-13 (14).png](attachment:c0a3302d-ada2-4801-a74c-e621d5d2ec4f:83062f2a-6a8b-400b-839b-f2815c3b04fd.png)
+![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/06902d946b5b4fe77d9825f58ac4b4e95ba6e966/Screenshot%202025-09-24%20115710.png)
 
 ![2025-08-14 (25).png](attachment:ec6fdcdc-512f-4506-b038-28c1edec958a:49eadfa6-16ea-4b53-af3f-60fc2778ed06.png)
 
