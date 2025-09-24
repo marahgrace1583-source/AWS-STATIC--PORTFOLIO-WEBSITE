@@ -39,7 +39,7 @@ Easy – Just upload files, set permissions, and you’re live.
 4. Edit HTML/CSS/JS to your taste.
 5. **Image Issues:** Resize or convert images to 
 
-![2025-08-11 (1).png](attachment:f4eab6c4-3d22-4e81-8ea4-52544e41fca5:0f2bafa1-2c8d-4a4b-8b83-5480f24553ea.png)
+![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/71cd0797425f6ac80de99eda729ede1b86bfc1c7/Screenshot%202025-09-24%20113616.png)
 
 ## **Step 2: Create S3 Bucket**
 
