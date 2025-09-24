@@ -69,7 +69,7 @@ then go to permission and edit bucket policy where you make your statement
 
 ![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/f94017d86b3a378c6376b7cbcc2adc5599daaafa/Screenshot%202025-09-24%20114045.png)
 
-![2025-08-13 (5).png](attachment:a1cf539d-64a7-44b1-906b-b9835bb409da:683820ae-d802-4274-8ebe-145b5f45d3bb.png)
+![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/6a002a431a94e44df94479bdb49c7da3525085db/Screenshot%202025-09-24%20114756.png)
 
 ![2025-08-13 (6).png](attachment:8766763c-8e7f-4ae9-8fdf-a5ba1b30ac70:38f3fc1b-fdc3-4315-bbff-5adf66105014.png)
 
