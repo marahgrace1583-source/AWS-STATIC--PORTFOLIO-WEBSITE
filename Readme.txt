@@ -84,7 +84,7 @@ Create route 53 for domain name registration
 
 ![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/06902d946b5b4fe77d9825f58ac4b4e95ba6e966/Screenshot%202025-09-24%20115710.png)
 
-![2025-08-14 (25).png](attachment:ec6fdcdc-512f-4506-b038-28c1edec958a:49eadfa6-16ea-4b53-af3f-60fc2778ed06.png)
+![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/31ddde4459900c26040d718fbff0381b79920e1b/Screenshot%202025-09-24%20121922.png)
 
 ## **Step 4: Create cloud front**
 
