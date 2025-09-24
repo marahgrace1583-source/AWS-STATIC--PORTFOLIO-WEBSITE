@@ -67,7 +67,7 @@ then go to permission and edit bucket policy where you make your statement
 
 **NB if you make bucket public you will have to give it a certain permission like GETOBJECTONLY**
 
-![2025-08-13 (2).png](attachment:123db909-fc35-4f1c-89ba-244d7ad68534:6cb70aa4-a86c-4f07-8cfe-8c9c13a60b03.png)
+![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/f94017d86b3a378c6376b7cbcc2adc5599daaafa/Screenshot%202025-09-24%20114045.png)
 
 ![2025-08-13 (5).png](attachment:a1cf539d-64a7-44b1-906b-b9835bb409da:683820ae-d802-4274-8ebe-145b5f45d3bb.png)
 
