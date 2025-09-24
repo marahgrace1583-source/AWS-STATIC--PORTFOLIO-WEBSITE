@@ -100,7 +100,7 @@ use website end point
 
 1. Check WAF is not enabled. Add item and request a certificate. Add domain name and another domain name (I used WWW) OPTIONAL  ,click create record and allow the certificate to be issued took about 15mins
 
-![2025-08-13 (18).png](attachment:f724d3a0-1955-484f-b617-afaea42a64fb:94167ae0-ada7-44b0-bc5d-077644621f07.png)
+![image alt](https://github.com/marahgrace1583-source/AWS-STATIC--PORTFOLIO-WEBSITE/blob/bd2e345329b36133d98ffe1f40db581dbaaba50e/Screenshot%202025-09-24%20122426.png)
 
 ![2025-08-14.png](attachment:ca65f080-c4a2-41b7-a294-1991ae12fca6:5285b900-bc90-4ed8-921e-dca91e16c2d6.png)
 
